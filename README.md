@@ -1,1 +1,0 @@
-# mpox-skin-lesion-classification
